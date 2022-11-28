@@ -23,7 +23,7 @@ specifiers:
   axios-case-converter: ^0.9.0
   critters: ^0.0.16
   cross-env: ^7.0.3
-  cypress: ^10.11.0
+  cypress: ^11.2.0
   cypress-pipe: ^2.0.0
   cypress-wait-until: ^1.7.2
   eslint: ^8.28.0
@@ -106,7 +106,7 @@ devDependencies:
   '@commitlint/config-conventional': 17.3.0
   '@iconify-json/carbon': 1.1.11
   '@intlify/vite-plugin-vue-i18n': 6.0.3_vite@3.0.4+vue-i18n@9.2.2
-  '@testing-library/cypress': 8.0.7_cypress@10.11.0
+  '@testing-library/cypress': 8.0.7_cypress@11.2.0
   '@testing-library/vue': 6.6.1_tfvhctuaqmmqnirfl65c47tqwu
   '@types/markdown-it-link-attributes': 3.0.1
   '@types/node': 18.11.9
@@ -117,7 +117,7 @@ devDependencies:
   '@vue/test-utils': 2.2.4_vue@3.2.45
   critters: 0.0.16
   cross-env: 7.0.3
-  cypress: 10.11.0
+  cypress: 11.2.0
   cypress-pipe: 2.0.0
   cypress-wait-until: 1.7.2
   eslint: 8.28.0
@@ -2164,7 +2164,7 @@ packages:
       string.prototype.matchall: 4.0.7
     dev: true
 
-  /@testing-library/cypress/8.0.7_cypress@10.11.0:
+  /@testing-library/cypress/8.0.7_cypress@11.2.0:
     resolution: {integrity: sha512-3HTV725rOS+YHve/gD9coZp/UcPK5xhr4H0GMnq/ni6USdtzVtSOG9WBFtd8rYnrXk8rrGD+0toRFYouJNIG0Q==}
     engines: {node: '>=12', npm: '>=6'}
     peerDependencies:
@@ -2172,7 +2172,7 @@ packages:
     dependencies:
       '@babel/runtime': 7.18.9
       '@testing-library/dom': 8.16.0
-      cypress: 10.11.0
+      cypress: 11.2.0
     dev: true
 
   /@testing-library/dom/8.16.0:
@@ -4398,8 +4398,8 @@ packages:
     resolution: {integrity: sha512-uZ+M8/MqRcpf+FII/UZrU7g1qYZ4aVlHcgyVopnladyoBrpoaMJ4PKZDrdOJ05H5RHbr7s9Tid635X3E+ZLU/Q==}
     dev: true
 
-  /cypress/10.11.0:
-    resolution: {integrity: sha512-lsaE7dprw5DoXM00skni6W5ElVVLGAdRUUdZjX2dYsGjbY/QnpzWZ95Zom1mkGg0hAaO/QVTZoFVS7Jgr/GUPA==}
+  /cypress/11.2.0:
+    resolution: {integrity: sha512-u61UGwtu7lpsNWLUma/FKNOsrjcI6wleNmda/TyKHe0dOBcVjbCPlp1N6uwFZ0doXev7f/91YDpU9bqDCFeBLA==}
     engines: {node: '>=12.0.0'}
     hasBin: true
     requiresBuild: true
